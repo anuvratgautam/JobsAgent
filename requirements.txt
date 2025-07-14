@@ -1,0 +1,7 @@
+loguru
+pandas
+openpyxl
+requests
+google-generativeai
+PyPDF2
+python-jobspy

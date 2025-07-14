@@ -1,0 +1,30 @@
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders (common names)
+# If you create a virtual environment, it will be ignored
+venv/
+.venv/
+env/
+.env/
+
+# Application-specific generated files
+# Ignore the directories containing logs and scraped data
+logs/
+scraped_data/
+
+# IDE and editor specific configuration files
+# VS Code
+.vscode/
+# PyCharm
+.idea/
+
+# Operating System generated files
+# Mac
+.DS_Store
+# Windows
+Thumbs.db
+
