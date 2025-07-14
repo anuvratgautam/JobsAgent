@@ -9,7 +9,7 @@ __pycache__/
 venv/
 .venv/
 env/
-.env/
+.env
 
 # Application-specific generated files
 # Ignore the directories containing logs and scraped data
